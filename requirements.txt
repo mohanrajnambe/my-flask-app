@@ -9,4 +9,4 @@ pandas
 xlrd
 openpyxl
 flask-mysql
-psycopg2
+psycopg2==2.9.2
