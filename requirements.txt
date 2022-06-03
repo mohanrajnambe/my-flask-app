@@ -2,7 +2,8 @@ click==6.7
 Flask==0.12.2
 itsdangerous==0.24
 Jinja2==2.9.6
-MarkupSafe==1.0
+setuptools==45
+MarkupSafe==2.0.1
 Werkzeug==0.12.2
 flask-cors
 pandas

@@ -1,12 +1,7 @@
-from crypt import methods
-import json
-from re import L
-import secrets
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import pandas as pd
 import psycopg2
-import json
 
 app = Flask(__name__)
 CORS(app)
